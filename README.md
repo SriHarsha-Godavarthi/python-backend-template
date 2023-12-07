@@ -13,3 +13,5 @@ flask_restful (use Resource,Api) # to use restapi
 
 # to install all packages
 pip install -r requirements.txt
+
+use (pip freeze) which will show all installed packages with version
