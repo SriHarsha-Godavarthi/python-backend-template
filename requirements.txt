@@ -1,0 +1,4 @@
+flask==3.0.0
+flask_restful==0.3.10
+pipreqs==0.4.13
+flask_mongoengine==1.0.0
